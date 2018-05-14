@@ -1,0 +1,4 @@
+#Sun May 13 21:03:51 CST 2018
+base.0=C\:\\Users\\Yang\\Desktop\\coding\\LitotomFunctionPractice\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
